@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "BookingRoomUniversity\\BookingRoomUniversity.csproj",
+        "Path": "BookingRoomUniversity\\BookingRoomUniversity.Assignment.MVC.csproj",
         "Action": "Start"
       },
       {
-        "Path": "BookingRoomUniversityRazorPages\\BookingRoomUniversityRazorPages.csproj",
+        "Path": "BookingRoomUniversityRazorPages\\BookingRoomUniversity.Assginment.RazorPages.csproj",
         "Action": "StartWithoutDebugging"
       }
     ]

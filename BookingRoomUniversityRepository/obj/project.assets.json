@@ -9285,9 +9285,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj",
-      "projectName": "BookingRoomUniversityRepository",
-      "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj",
+      "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj",
+      "projectName": "BookingRoomUniversity.Assignment.Repository",
+      "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
       "outputPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\obj\\",
       "projectStyle": "PackageReference",

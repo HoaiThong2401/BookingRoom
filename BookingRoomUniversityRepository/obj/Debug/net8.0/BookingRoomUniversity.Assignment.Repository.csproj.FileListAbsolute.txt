@@ -1,0 +1,14 @@
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.deps.json
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.runtimeconfig.json
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.csproj.AssemblyReference.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.AssemblyInfoInputs.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.AssemblyInfo.cs
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.csproj.CoreCompileInputs.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\refint\BookingRoomUniversity.Assignment.Repository.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.genruntimeconfig.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\ref\BookingRoomUniversity.Assignment.Repository.dll

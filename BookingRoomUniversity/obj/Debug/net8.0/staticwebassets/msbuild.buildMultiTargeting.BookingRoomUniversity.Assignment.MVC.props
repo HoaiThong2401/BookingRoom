@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookingRoomUniversity.Assignment.MVC.props" />
+</Project>

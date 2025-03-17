@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rdxc4SYEZ8k=",
+  "dgSpecHash": "YN/95k2hWz8=",
   "success": true,
-  "projectFilePath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversityRazorPages.csproj",
+  "projectFilePath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversity.Assginment.RazorPages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookingRoomUniversityRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bb71c002beb754992f874178f4484f2259565f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookingRoomUniversityRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookingRoomUniversityRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

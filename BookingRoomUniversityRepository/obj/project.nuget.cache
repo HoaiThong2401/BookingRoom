@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bVFHINK6vo=",
+  "dgSpecHash": "wA1H1ezDCZU=",
   "success": true,
-  "projectFilePath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj",
+  "projectFilePath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -23,14 +23,19 @@ namespace BookingRoomUniversityService.ManageUserService.Implements
         public async Task<UserResponse> LoginAsync(string email, string password)
         {
             User user = (await _unitOfWork.Repository<User>().GetAsync())
-                .FirstOrDefault( u => u.Email.Equals(email, StringComparison.OrdinalIgnoreCase) && u.Password == password);
+                .FirstOrDefault(u => u.Email.Equals(email, StringComparison.OrdinalIgnoreCase) && u.Password == password);
+
 
             UserResponse userResponse = _mapper.Map<UserResponse>(user);
 
-            Role role = (await _unitOfWork.Repository<Role>().GetAsync())
-       .FirstOrDefault(r => r.RoleId == user.RoleId) ?? throw new InvalidDataException($"User: {user.Name} has not been granted access");
+            if (user != null)
+            {
+                Role role = (await _unitOfWork.Repository<Role>().GetAsync())
+            .FirstOrDefault(r => r.RoleId == user.RoleId) ?? throw new InvalidDataException($"User: {user.Name} has not been granted access");
 
-            userResponse.RoleName = role.Name;
+                userResponse.RoleName = role.Name;
+            }
+
 
             return userResponse;
         }

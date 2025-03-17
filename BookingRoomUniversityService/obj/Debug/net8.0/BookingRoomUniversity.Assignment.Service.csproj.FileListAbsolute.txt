@@ -1,0 +1,17 @@
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Service.deps.json
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Service.runtimeconfig.json
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Service.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Service.pdb
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.csproj.AssemblyReference.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.AssemblyInfoInputs.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.AssemblyInfo.cs
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.csproj.CoreCompileInputs.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingR.E97715D3.Up2Date
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\refint\BookingRoomUniversity.Assignment.Service.dll
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.pdb
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Service.genruntimeconfig.cache
+D:\PRN222\BookingRoomUniversity\BookingRoomUniversityService\obj\Debug\net8.0\ref\BookingRoomUniversity.Assignment.Service.dll

@@ -2356,7 +2356,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "BookingRoomUniversityRepository/1.0.0": {
+      "BookingRoomUniversity.Assignment.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -2366,28 +2366,28 @@
           "Microsoft.Extensions.Configuration.Json": "9.0.3"
         },
         "compile": {
-          "bin/placeholder/BookingRoomUniversityRepository.dll": {}
+          "bin/placeholder/BookingRoomUniversity.Assignment.Repository.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BookingRoomUniversityRepository.dll": {}
+          "bin/placeholder/BookingRoomUniversity.Assignment.Repository.dll": {}
         }
       },
-      "BookingRoomUniversityService/1.0.0": {
+      "BookingRoomUniversity.Assignment.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "14.0.0",
-          "BookingRoomUniversityRepository": "1.0.0",
+          "BookingRoomUniversity.Assignment.Repository": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.6",
           "Microsoft.Extensions.Configuration": "9.0.3",
           "Microsoft.Extensions.Configuration.Json": "9.0.3"
         },
         "compile": {
-          "bin/placeholder/BookingRoomUniversityService.dll": {}
+          "bin/placeholder/BookingRoomUniversity.Assignment.Service.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BookingRoomUniversityService.dll": {}
+          "bin/placeholder/BookingRoomUniversity.Assignment.Service.dll": {}
         }
       }
     }
@@ -7408,20 +7408,20 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "BookingRoomUniversityRepository/1.0.0": {
+    "BookingRoomUniversity.Assignment.Repository/1.0.0": {
       "type": "project",
-      "path": "../BookingRoomUniversityRepository/BookingRoomUniversityRepository.csproj",
-      "msbuildProject": "../BookingRoomUniversityRepository/BookingRoomUniversityRepository.csproj"
+      "path": "../BookingRoomUniversityRepository/BookingRoomUniversity.Assignment.Repository.csproj",
+      "msbuildProject": "../BookingRoomUniversityRepository/BookingRoomUniversity.Assignment.Repository.csproj"
     },
-    "BookingRoomUniversityService/1.0.0": {
+    "BookingRoomUniversity.Assignment.Service/1.0.0": {
       "type": "project",
-      "path": "../BookingRoomUniversityService/BookingRoomUniversityService.csproj",
-      "msbuildProject": "../BookingRoomUniversityService/BookingRoomUniversityService.csproj"
+      "path": "../BookingRoomUniversityService/BookingRoomUniversity.Assignment.Service.csproj",
+      "msbuildProject": "../BookingRoomUniversityService/BookingRoomUniversity.Assignment.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BookingRoomUniversityService >= 1.0.0"
+      "BookingRoomUniversity.Assignment.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7431,9 +7431,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversityRazorPages.csproj",
-      "projectName": "BookingRoomUniversityRazorPages",
-      "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversityRazorPages.csproj",
+      "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversity.Assginment.RazorPages.csproj",
+      "projectName": "BookingRoomUniversity.Assginment.RazorPages",
+      "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\BookingRoomUniversity.Assginment.RazorPages.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
       "outputPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRazorPages\\obj\\",
       "projectStyle": "PackageReference",
@@ -7457,8 +7457,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj": {
-              "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj"
+            "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj": {
+              "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj"
             }
           }
         }

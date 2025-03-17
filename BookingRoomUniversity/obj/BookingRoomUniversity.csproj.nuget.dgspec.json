@@ -4,12 +4,12 @@
     "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversity\\BookingRoomUniversity.csproj": {}
   },
   "projects": {
-    "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj": {
+    "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj",
-        "projectName": "BookingRoomUniversityRepository",
-        "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj",
+        "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj",
+        "projectName": "BookingRoomUniversity.Assignment.Repository",
+        "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
         "outputPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\obj\\",
         "projectStyle": "PackageReference",
@@ -100,12 +100,12 @@
         }
       }
     },
-    "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj": {
+    "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj",
-        "projectName": "BookingRoomUniversityService",
-        "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj",
+        "projectUniqueName": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj",
+        "projectName": "BookingRoomUniversity.Assignment.Service",
+        "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
         "outputPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\obj\\",
         "projectStyle": "PackageReference",
@@ -129,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj": {
-                "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversityRepository.csproj"
+              "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj": {
+                "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityRepository\\BookingRoomUniversity.Assignment.Repository.csproj"
               }
             }
           }
@@ -233,8 +233,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj": {
-                "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversityService.csproj"
+              "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj": {
+                "projectPath": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversityService\\BookingRoomUniversity.Assignment.Service.csproj"
               }
             }
           }

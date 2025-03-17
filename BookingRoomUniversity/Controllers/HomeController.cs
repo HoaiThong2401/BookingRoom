@@ -26,7 +26,7 @@ namespace BookingRoomUniversity.Controllers
         [HttpGet]
         public IActionResult Login()
         {
-            return View("Index.html");
+            return View("Index");
         }
 
 
@@ -38,23 +38,30 @@ namespace BookingRoomUniversity.Controllers
             {
                 UserResponse userResponse = await _authService.LoginAsync(email, password);
 
-                var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.Name, userResponse.Email),
-            new Claim(ClaimTypes.Role, userResponse.RoleName)
-        };
-
-                var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                var authProperties = new AuthenticationProperties { IsPersistent = true };
-
-                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
-                    new ClaimsPrincipal(claimsIdentity), authProperties);
-
-                if (userResponse.RoleName == "Admin" || userResponse.RoleName == "Manager")
+                if (userResponse != null)
                 {
-                    return Redirect("https://localhost:5003");
+                    var claims = new List<Claim>
+                    {
+                        new Claim(ClaimTypes.Name, userResponse.Email),
+                        new Claim(ClaimTypes.Role, userResponse.RoleName)
+                    };
+
+                    var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    var authProperties = new AuthenticationProperties { IsPersistent = true };
+
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
+                        new ClaimsPrincipal(claimsIdentity), authProperties);
+
+                    if (userResponse.RoleName == "Admin" || userResponse.RoleName == "Manager")
+                    {
+                        return Redirect("https://localhost:5003");
+                    }
+
+                    return View("Home");
                 }
-                return View("Home");
+
+                return Login();
+
             }
             catch (Exception ex)
             {

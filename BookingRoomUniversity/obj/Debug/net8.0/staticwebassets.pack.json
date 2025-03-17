@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingRoomUniversity.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BookingRoomUniversity.xx3d1jr2pa.bundle.scp.css"
+      "Id": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversity\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookingRoomUniversity.Assignment.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookingRoomUniversity.Assignment.MVC.p9fhq7h6hc.bundle.scp.css"
     },
     {
       "Id": "D:\\PRN222\\BookingRoomUniversity\\BookingRoomUniversity\\wwwroot\\css\\site.css",
@@ -245,24 +245,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingRoomUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingRoomUniversity.Assignment.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingRoomUniversity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookingRoomUniversity.Assignment.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookingRoomUniversity.props",
-      "PackagePath": "build\\BookingRoomUniversity.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookingRoomUniversity.Assignment.MVC.props",
+      "PackagePath": "build\\BookingRoomUniversity.Assignment.MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookingRoomUniversity.props",
-      "PackagePath": "buildMultiTargeting\\BookingRoomUniversity.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookingRoomUniversity.Assignment.MVC.props",
+      "PackagePath": "buildMultiTargeting\\BookingRoomUniversity.Assignment.MVC.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookingRoomUniversity.props",
-      "PackagePath": "buildTransitive\\BookingRoomUniversity.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookingRoomUniversity.Assignment.MVC.props",
+      "PackagePath": "buildTransitive\\BookingRoomUniversity.Assignment.MVC.props"
     }
   ],
   "ElementsToRemove": []
