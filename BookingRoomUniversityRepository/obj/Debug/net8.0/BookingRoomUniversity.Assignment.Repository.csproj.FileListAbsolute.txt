@@ -12,3 +12,18 @@ D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0
 D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
 D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.genruntimeconfig.cache
 D:\PRN222\BookingRoomUniversity\BookingRoomUniversityRepository\obj\Debug\net8.0\ref\BookingRoomUniversity.Assignment.Repository.dll
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.deps.json
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.runtimeconfig.json
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.dll
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\bin\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.csproj.AssemblyReference.cache
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.AssemblyInfoInputs.cache
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.AssemblyInfo.cs
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.csproj.CoreCompileInputs.cache
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.sourcelink.json
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.dll
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\refint\BookingRoomUniversity.Assignment.Repository.dll
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.pdb
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\BookingRoomUniversity.Assignment.Repository.genruntimeconfig.cache
+D:\dulieu\New folder\FPT\SEMESTER_7\25.SP.PRN222\Assignment\BookingRoom\BookingRoomUniversityRepository\obj\Debug\net8.0\ref\BookingRoomUniversity.Assignment.Repository.dll
