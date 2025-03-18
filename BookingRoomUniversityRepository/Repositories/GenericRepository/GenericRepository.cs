@@ -13,6 +13,8 @@ namespace BookingRoomUniversityRepository.Repositories.GenericRepository
         private readonly BookingRoomUniversityDbContext _context;
         private readonly DbSet<T> _dbSet;
 
+        public IQueryable<T> Entities => _dbSet;
+
         public GenericRepository(BookingRoomUniversityDbContext context)
         {
             _context = context;
@@ -23,6 +25,7 @@ namespace BookingRoomUniversityRepository.Repositories.GenericRepository
         {
             return await _dbSet.FindAsync(id);
         }
+
 
 
         public async Task<IEnumerable<T>> GetAsync(Expression<Func<T, bool>> filter = null,
@@ -59,6 +62,8 @@ namespace BookingRoomUniversityRepository.Repositories.GenericRepository
         {
             _dbSet.Remove(entity);
         }
+
+   
     }
 
 }
