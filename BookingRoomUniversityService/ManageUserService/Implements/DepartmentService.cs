@@ -27,7 +27,7 @@ namespace BookingRoomUniversity.Assignment.Service.ManageUserService.Implements
 
         public void UpdateDepartment(Department obj)
         {
-            return _unitOfWork.Repository<Department>().UpdateAsync(obj);
+             _unitOfWork.Repository<Department>().UpdateAsync(obj);
         }
     }
 }

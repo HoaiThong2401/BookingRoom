@@ -30,12 +30,12 @@ namespace BookingRoomUniversity.Assignment.Service.ManageUserService.Implements
 
         public List<Campus> getAllCampus()
         {
-            _unitOfWork.Repository<Campus>().Entities.ToList();
+            return _unitOfWork.Repository<Campus>().Entities.ToList();
         }
 
         public void UpdateCampus(Campus obj)
         {
-            _unitOfWork.Repository<Campus>().UpdateAsync();
+            _unitOfWork.Repository<Campus>().UpdateAsync(obj);
         }
     }
 }
